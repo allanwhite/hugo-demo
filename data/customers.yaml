@@ -1,10 +1,8 @@
-# modalID: 1
 title: Focus on your core competency
 subtitle: Innovative organizations across healthcare look to Catalyze to relieve the burden of compliance and integration.
-date: 2014-07-05
 category: Customers
 description: Our customers
-customer-logos:
+companies:
     -
         name: Allscripts
         file: allscripts-logo
